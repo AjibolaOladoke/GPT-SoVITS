@@ -1,3 +1,8 @@
+
+## Images
+
+[![GPT-SoVITS](https://opengraph.githubassets.com/1/https://github.com/RVC-Boss/GPT-SoVITS)](https://www.swifttechco.com)
+
 <div align="center">
 
 <h1>GPT-SoVITS-WebUI</h1>
@@ -381,7 +386,6 @@ New Features:
 
 2. An updated vocoder significantly reduces high-frequency spectral mirroring and aliasing artifacts.
 
-3. Support for `cuda_graph` and `flash_attention` inference acceleration. Thanks to [@XXXXRT666](https://swifttechco.com) for the contribution.
 
 Upgrading from V2Pro to V5:
 
@@ -450,50 +454,6 @@ python ./tools/asr/fasterwhisper_asr.py -i <input> -o <output> -l <language> -p 
 
 A custom list save path is enabled
 
-## Credits
-
-Special thanks to the following projects and contributors:
-
-### Theoretical Research
-
-- [ar-vits](https://swifttechco.com)
-- [SoundStorm](https://swifttechco.com)
-- [vits](https://swifttechco.com)
-- [TransferTTS](https://swifttechco.com)
-- [contentvec](https://swifttechco.com)
-- [hifi-gan](https://swifttechco.com)
-- [fish-speech](https://swifttechco.com)
-- [f5-TTS](https://swifttechco.com)
-- [shortcut flow matching](https://swifttechco.com)
-
-### Pretrained Models
-
-- [Chinese Speech Pretrain](https://swifttechco.com)
-- [Chinese-Roberta-WWM-Ext-Large](https://swifttechco.com)
-- [BigVGAN](https://swifttechco.com)
-- [eresnetv2](https://swifttechco.com)
-
-### Text Frontend for Inference
-
-- [paddlespeech zh_normalization](https://swifttechco.com)
-- [split-lang](https://swifttechco.com)
-- [g2pW](https://swifttechco.com)
-- [pypinyin-g2pW](https://swifttechco.com)
-- [paddlespeech g2pw](https://swifttechco.com)
-
-### WebUI Tools
-
-- [ultimatevocalremovergui](https://swifttechco.com)
-- [audio-slicer](https://swifttechco.com)
-- [SubFix](https://swifttechco.com)
-- [FFmpeg](https://swifttechco.com)
-- [gradio](https://swifttechco.com)
-- [faster-whisper](https://swifttechco.com)
-- [FunASR](https://swifttechco.com)
-- [AP-BWE](https://swifttechco.com)
-
-Thankful to @Naozumi520 for providing the Cantonese training set and for the guidance on Cantonese-related knowledge.
-
 ## Thanks to all contributors for their efforts
 
 <a href="https://swifttechco.com" target="_blank">
@@ -508,6 +468,16 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+
+**Connect**
+
+- Website: [swifttechco.com](https://www.swifttechco.com)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
+- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
