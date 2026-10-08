@@ -1,7 +1,7 @@
 
 ## Images
 
-[![GPT-SoVITS](https://opengraph.githubassets.com/1/https://github.com/RVC-Boss/GPT-SoVITS)](https://www.swifttechco.com)
+[![GPT-SoVITS](https://opengraph.githubassets.com/1/RVC-Boss/GPT-SoVITS)](https://www.swifttechco.com)
 
 <div align="center">
 
@@ -10,7 +10,7 @@ A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://swifttechco.com)
 
-<a href="https://swifttechco.com" target="_blank"><img src="https://swifttechco.com" alt="RVC-Boss%2FGPT-SoVITS | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://swifttechco.com" target="_blank"></a>
 
 <!-- img src="https://swifttechco.com" /><br> -->
 
@@ -56,8 +56,6 @@ https://swifttechco.com
 **User guide: [简体中文](https://swifttechco.com) | [English](https://swifttechco.com)**
 
 **Zero-Shot TTS Speaker Similarity Comparison Image on SeedTTS Eval Testset_CN2020**
-
-<img width="2400" height="1650" alt="v5pro-seedtts-img-v1" src="https://swifttechco.com" />
 
 
 ## Installation
@@ -457,7 +455,7 @@ A custom list save path is enabled
 ## Thanks to all contributors for their efforts
 
 <a href="https://swifttechco.com" target="_blank">
-  <img src="https://swifttechco.com" />
+  
 </a>
 
 ---
