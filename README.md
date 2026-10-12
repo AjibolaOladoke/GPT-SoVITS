@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![GPT-SoVITS](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![GPT-SoVITS](images/preview.png)](https://github.com/Swift-Tech-Co/GPT-SoVITS)
 
 ## Features:
 
@@ -22,7 +22,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 Unseen speakers few-shot fine-tuning demo:
 
-https://swifttechco.com
+https://github.com/Swift-Tech-Co/GPT-SoVITS
 
 **RTF(inference speed) of GPT-SoVITS v2 ProPlus**:
 0.028 tested in 4060Ti, 0.014 tested in 4090 (1400words~=4min, inference time is 3.36s), 0.526 in M4 CPU. You can test our huggingface demo (half H200) to experience high-speed inference .
@@ -32,7 +32,6 @@ https://swifttechco.com
 **User guide: 简体中文 | English**
 
 **Zero-Shot TTS Speaker Similarity Comparison Image on SeedTTS Eval Testset_CN2020**
-
 
 ## Installation
 
@@ -360,7 +359,6 @@ New Features:
 
 2. An updated vocoder significantly reduces high-frequency spectral mirroring and aliasing artifacts.
 
-
 Upgrading from V2Pro to V5:
 
 1. Clone the latest code from GitHub.
@@ -430,7 +428,7 @@ A custom list save path is enabled
 
 ## Thanks to all contributors for their efforts
 
-<a href="https://swifttechco.com" target="_blank">
+<a href="https://github.com/Swift-Tech-Co/GPT-SoVITS" target="_blank">
   
 </a>
 
@@ -448,13 +446,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/GPT-SoVITS
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
